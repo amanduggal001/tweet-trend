@@ -1,6 +1,6 @@
 sonar.verbose=true
 sonar.organization=aman-devops-key                    
-sonar.projectKey=aman-devops-key_twittertrend    
+sonar.projectKey=aman-devops-key_twittertrend   
 sonar.projectName=twittertrend
 sonar.language=java
 sonar.sourceEncoding=UTF-8
